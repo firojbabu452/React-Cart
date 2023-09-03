@@ -3,7 +3,7 @@ import '../App.css';
 function Header(props) {
     const divStyle = {
         color: 'white',
-         backgroundColor: "green",
+         backgroundColor: "black",
     }
     return (
         <div className='flex shopping-card'>
